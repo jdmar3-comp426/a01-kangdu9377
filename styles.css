@@ -14,4 +14,11 @@ h2{
 
 .players{
     text-transform: uppercase;
+    font-size: large;
+    background-color: aqua;
 }
+
+h3:hover{
+    background-color: beige;
+}
+
