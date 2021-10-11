@@ -17,8 +17,14 @@ h2{
     font-size: large;
     background-color: aqua;
 }
-
+.player{
+    text-align: center;
+}
 h3:hover{
     background-color: beige;
+}
+
+h3{
+    border-bottom: 4px dotted blue;
 }
 
