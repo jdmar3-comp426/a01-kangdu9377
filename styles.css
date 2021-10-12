@@ -3,7 +3,7 @@ title{
 }
 
 body{
-    background: #141E30;
+    background: #ffffff;
 }
 
 h1{
@@ -43,3 +43,8 @@ h3{
     background-color: tomato !important;
 }
 
+div{
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
