@@ -1,3 +1,7 @@
+title{
+    background-color: thistle;
+}
+
 body{
     background: #141E30;
 }
@@ -19,6 +23,8 @@ h2{
 }
 .player{
     text-align: center;
+    font-size:small;
+    background-color:white;
 }
 h3:hover{
     background-color: beige;
@@ -26,5 +32,13 @@ h3:hover{
 
 h3{
     border-bottom: 4px dotted blue;
+}
+
+#tom-dwan{
+    text-align: center;
+}
+
+#johnny-chan{
+    text-align: left;
 }
 
