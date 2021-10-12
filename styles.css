@@ -49,6 +49,6 @@ div{
     background-color: powderblue;
 }
 
-header > h2 {
+div h2 {
     font-weight: 100;
 }
