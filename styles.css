@@ -48,3 +48,7 @@ div{
     width: 50%;
     background-color: powderblue;
 }
+
+header > h2 {
+    font-weight: 100;
+}
