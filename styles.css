@@ -1,0 +1,54 @@
+title{
+    background-color: thistle;
+}
+
+body{
+    background: #ffffff;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+
+#phil-ivey{
+    text-transform: uppercase;
+    font-size: large;
+    background-color: aqua;
+}
+.player{
+    text-align: center;
+    font-size:small;
+    background-color:white;
+}
+h3:hover{
+    background-color: beige;
+}
+
+h3{
+    border-bottom: 4px dotted blue;
+}
+
+#tom-dwan{
+    text-align: center;
+}
+
+#johnny-chan{
+    text-align: left;
+    background-color: tomato !important;
+}
+
+div{
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
+
+div h2 {
+    font-weight: 100;
+}
